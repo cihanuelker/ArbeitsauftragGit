@@ -6,6 +6,6 @@ namespace ArbeitsauftragGit
 {
     class A
     {
-        int A { get; set; }
+        int X { get; set; }
     }
 }
